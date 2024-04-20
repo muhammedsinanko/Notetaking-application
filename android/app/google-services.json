@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870832366965",
+    "project_id": "notetakingappbacked",
+    "storage_bucket": "notetakingappbacked.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870832366965:android:a9c5860af0b02170065f3c",
+        "android_client_info": {
+          "package_name": "com.example.iooi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7NzuDDt9xpYg3cWJP_4THzOoIHNOdCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
